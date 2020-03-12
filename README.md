@@ -1,1 +1,1 @@
-# ai_ludo_project
+# AI Ludo Project for 8 Semester Master Robotics
